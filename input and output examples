@@ -1,0 +1,39 @@
+user@ubuntu:~/Desktop/count_odd_bits$ make
+make: 'count_odd_bits' is up to date.
+user@ubuntu:~/Desktop/count_odd_bits$ ./count_odd_bits
+
+Please insert a number
+149
+
+The number 149 has 1 odd bits set in its binary representation
+
+Please insert another number
+32811
+
+The number 32811 has 4 odd bits set in its binary representation
+
+Please insert another number
+0
+
+The number 0 has 0 odd bits set in its binary representation
+
+Please insert another number
+1
+
+The number 1 has 0 odd bits set in its binary representation
+
+Please insert another number
+2
+
+The number 2 has 1 odd bits set in its binary representation
+
+Please insert another number
+7
+
+The number 7 has 1 odd bits set in its binary representation
+
+Please insert another number
+8
+
+The number 8 has 1 odd bits set in its binary representation
+
